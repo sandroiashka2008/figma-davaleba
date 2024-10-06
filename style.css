@@ -1,0 +1,367 @@
+#left{
+    width: 400px;
+    height: 700px;
+    background-color:#7271FF ;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+
+#trivo{
+color: white;
+position: absolute;
+margin-left: 18%;
+margin-top: 15%;
+font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 2px 2px 2px black;
+}
+
+#logo{
+position: absolute;
+color: white;
+margin-left: 7%;
+margin-top: 16%;
+font-size: 35px;
+text-shadow: 2px 2px 2px black;
+}
+
+
+h2{
+position: absolute;
+position: absolute;
+color: white;
+margin-left: 7%;
+margin-top: 46%;
+font-size: 20px;
+
+
+
+}
+
+.line{
+position: absolute;
+width: 260px;
+height: 40px;
+margin-top: 90%;
+background-color: white;
+box-shadow: 2px 2px 2px black;
+
+
+}
+
+
+#photo1{
+    position: absolute;
+  
+    margin-top: 90%;
+ height: 35px;
+    
+border-radius: 50%;    
+
+
+
+
+}
+
+#photo2{
+    position: absolute;
+  
+    margin-top: 90%;
+ height: 35px;
+    margin-left: 5%;
+border-radius: 50%;    
+
+
+
+
+}
+
+#photo3{
+
+    position: absolute;
+  
+    margin-top: 90%;
+ height: 35px;
+    margin-left: 10%;
+border-radius: 50%;    
+
+
+}
+
+
+#photo4{
+    position: absolute;
+  
+    margin-top: 90%;
+ height: 35px;
+    margin-left: 15%;
+border-radius: 50%;    
+
+
+
+}
+
+#link{
+    position: absolute;
+  
+    margin-top: 91%;
+ 
+    margin-left: 27%;
+border-radius: 50%;    
+font-size: 25px;
+
+
+}
+
+
+button{
+
+    position: absolute;
+  
+    margin-top: 92%;
+ 
+    margin-left: 38%;
+
+font-size: 25px;
+color: white;
+background-color: blue;
+font-size: 15px;
+
+}
+
+
+
+#photo{
+width: 320px;
+height: 250px;
+margin-top: 112.4%;
+margin-left: 20%;
+}
+
+
+
+#right{
+position: absolute;
+background-color:white;
+border: 2px solid black;
+width: 400px;
+height: 700px;
+margin-top: 1%;
+margin-left: 46%;
+}
+
+#trivo2{
+position: absolute;
+font-size: 45px;
+margin-top: 50px;
+color: rgba(175, 161, 161, 0.666);
+margin-left: 10%;
+}
+
+#acc{
+
+    position: absolute;
+    font-size: 35px;
+    margin-top: 50px;
+    color:black;
+    margin-left: 25%;
+
+}
+
+#text{
+    position: absolute;
+    font-size: 15px;
+    margin-top: 125px;
+    color:black;
+    margin-left: 13%;
+}
+
+
+#firstname{
+position: absolute;
+margin-top: 55%;
+height: 40px;
+width: 200px;
+margin-left: 24%;
+}
+
+#nammee {
+
+    position: absolute;
+margin-top: 47%;
+height: 40px;
+width: 200px;
+margin-left: 23%;
+font-size: 20px;
+}
+
+#emmaill{
+    position: absolute;
+    margin-top: 65%;
+    height: 40px;
+    width: 200px;
+    margin-left: 23%;
+    font-size: 20px;
+
+
+}
+
+#email{
+
+    position: absolute;
+    margin-top: 73%;
+    height: 40px;
+    width: 200px;
+    margin-left: 23%;
+    font-size: 20px;
+
+
+}
+
+
+#passwordd{
+    position: absolute;
+    margin-top: 80%;
+    height: 40px;
+    width: 200px;
+    margin-left: 23%;
+    font-size: 20px;
+
+
+
+}
+
+#password{
+    position: absolute;
+    margin-top: 88%;
+    height: 40px;
+    width: 200px;
+    margin-left: 23%;
+    font-size: 20px;
+
+
+
+}
+
+
+#account{
+position: absolute;
+margin-top: 110%;
+height: 40px;
+width: 200px;
+margin-left: 23%;
+font-size: 20px;
+color: white;
+background-color: blue;
+
+}
+
+#google{
+    position: absolute;
+    margin-top: 125%;
+    height: 40px;
+    width: 200px;
+    margin-left: 23%;
+    font-size: 20px;
+    color: blue;
+    background-color:white;
+border: 3px solid green;
+
+}
+
+#have{
+    position: absolute;
+    margin-top: 145%;
+    height: 40px;
+    width: 200px;
+    margin-left: 19%;
+    font-size: 15px;
+    color: black;
+   
+
+}
+
+a{
+    position: absolute;
+    margin-top: 145%;
+    height: 40px;
+    width: 200px;
+    margin-left: 60%;
+    font-size: 15px;
+    color: blue;
+
+
+
+}
+
+Create an Account
+Became trivo member ,you’ll get exlusive treatment from trivo
+Manage your work, update your data, keeping your report regularly
+Full Name 
+Enter your full name
+Email *
+Enter aemail
+View Report
+Password *
+Create a password
+Trivo
+Search here....
+Hi, 
+Hi, 
+Division
+Search here....
+Esther
+Esther
+Create an Account
+MENU
+Dashboard
+Report Team
+Dashboard
+Summary Output vs WIP Production
+25%
+sign up with google
+40
+Total Current WIP
+Division
+30
+40.000
+pcs
+20
+Total Current Output
+Already have an account? log in
+Report Team
+10
+Wip
+19.340
+Output
+pcs
+View Report
+Schedule
+Setting
+20.154
+Fabric Transfer
+Cutting Transfer
+Cutting Target
+Cutting Performance
+yards
+342
+panels
+14.244
+per shift
+99%
+QA passed
+PROFIL
+Chat
+Recent Update
+View More
+Output 2nd Week Report
+View Report
+Group
+Updated report of delivery finish good on 2nd weeek
+Sign Out
+Relaxation Achievement
+Updated report of delivery finish good on 2nd weeek
+QA Report
+Updated QA report for 2nd week. acc by lead dep
